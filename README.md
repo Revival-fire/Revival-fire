@@ -1,5 +1,5 @@
-### Hi there 👋
 
+-->
 <!--<h1>Hi, I'm Samuel  <br/><a href="https://github.com/SamuelAlabi">Senior DevOps Engineer</a>, <a href="https://www.linkedin.com/in/samuelagbokpo/">DevOps/Platform Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -32,7 +32,7 @@
 [linkedin]: https://www.linkedin.com/in/samuelagbokpo/
 
 
--->
+
 **Revival-fire/Revival-fire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
